@@ -14,7 +14,7 @@ local useServerChan = false
 --LuatOS社区提供的推送服务 https://push.luatos.org/
 --这里填.send前的字符串就好了
 --如：https://push.luatos.org/ABCDEF1234567890ABCD.send/{title}/{data} 填入 ABCDEF1234567890ABCD
-local luatosPush = "ABCDEF1234567890ABCD"
+local luatosPush = "45C317B7045A432B93BB92ED80CB9F16"
 
 --server酱的配置，免费用户每天仅可发送五条推送消息
 --server酱的SendKey，如果你用的是这个就需要填一个
